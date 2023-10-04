@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Laura-R-US
+- 👀 I’m interested in web design.
+- 🌱 I’m new to coding.
